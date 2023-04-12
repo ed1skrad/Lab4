@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Artem/CLionProjects/lab4ready/cmake-build-debug",
-		"source" : "C:/Users/Artem/CLionProjects/lab4ready"
+		"build" : "C:/Users/atema/Documents/GitHub/Lab4/cmake-build-debug",
+		"source" : "C:/Users/atema/Documents/GitHub/Lab4"
 	},
 	"version" : 
 	{

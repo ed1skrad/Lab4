@@ -1,3 +1,3 @@
-C:/Users/Artem/CLionProjects/lab4ready/cmake-build-debug/CMakeFiles/lab4ready.dir
-C:/Users/Artem/CLionProjects/lab4ready/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Artem/CLionProjects/lab4ready/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/atema/Documents/GitHub/Lab4/cmake-build-debug/CMakeFiles/lab4ready.dir
+C:/Users/atema/Documents/GitHub/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/atema/Documents/GitHub/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
