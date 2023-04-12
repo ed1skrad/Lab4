@@ -3,11 +3,7 @@
 #include <string.h>
 #include <time.h>
 #include "Tree.h"
-// Эта функция сохраняет дерево принятия решений в файл в порядке обхода в прямом порядке.
-// Она принимает в качестве аргументов указатель на файл и указатель на текущий узел.
-// Если текущий узел равен NULL, она записывает символ "#" в файл, чтобы указать
-// пустой узел. В противном случае она записывает вопрос текущего узла в файл,
-// затем дочерние узлы "да" и "нет".
+
 void save_tree(FILE *file, node *current_node) {
     if (current_node == NULL) {
         fprintf(file, "#\n");
@@ -17,11 +13,7 @@ void save_tree(FILE *file, node *current_node) {
     save_tree(file, current_node->yes);
     save_tree(file, current_node->no);
 }
-// Эта функция загружает дерево принятия решений из файла и создает соответствующие узлы.
-// Она принимает в качестве аргумента указатель на файл и считывает вопрос из файла.
-// Если считанный вопрос равен "#\n", это означает пустой узел и функция возвращает NULL.
-// В противном случае функция создает новый узел с считанным вопросом и рекурсивно загружает
-// дочерние узлы "да" и "нет".
+
 node* load_tree(FILE *file) {
     char question[256];
     if (fgets(question, 256, file) == NULL) {
@@ -41,11 +33,7 @@ node* load_tree(FILE *file) {
 
     return new_node;
 }
-// Эта функция рекурсивно печатает дерево в порядке обхода в прямом порядке.
-// Она принимает в качестве аргумента указатель на текущий узел.
-// Если текущий узел равен NULL, функция ничего не делает.
-// В противном случае она печатает вопрос текущего узла и рекурсивно вызывается
-// для дочерних узлов "да" и "нет".
+
 void printTree(node *currentNode) {
     if (currentNode == NULL) {
         return;
@@ -54,10 +42,7 @@ void printTree(node *currentNode) {
     printTree(currentNode->yes);
     printTree(currentNode->no);
 }
-// Эта функция записывает сообщение журнала в файл журнала с меткой времени.
-// Она принимает в качестве аргумента сообщение для записи.
-// Функция открывает файл журнала с именем "log.txt" в режиме добавления,
-// записывает сообщение с меткой времени в файл и закрывает файл.
+
 void log_message(char *message) {
     time_t current_time = time(NULL);
     char *timestamp = ctime(&current_time);
@@ -66,8 +51,7 @@ void log_message(char *message) {
     fprintf(log_file, "[%s] %s\n", timestamp, message);
     fclose(log_file);
 }
-// Эта функция создает новый узел с заданным вопросом и устанавливает указатели "да" и "нет" в NULL.
-// Она принимает в качестве аргумента вопрос для нового узла и возвращает указатель на новый узел.
+
 node* create_node(char *question) {
     node *new_node = malloc(sizeof(node));
     new_node->question = question;
@@ -75,9 +59,7 @@ node* create_node(char *question) {
     new_node->no = NULL;
     return new_node;
 }
-// Эта функция добавляет новый вопрос и объект в дерево, обновляя вопрос текущего узла
-// и создавая два новых узла для ответов "да" и "нет".
-// Она принимает в качестве аргументов указатель на текущий узел, новый вопрос и новый объект.
+
 void add_question(node *current_node, char *new_question, char *new_object) {
     char *old_question = current_node->question;
     current_node->question = new_question;
@@ -85,10 +67,7 @@ void add_question(node *current_node, char *new_question, char *new_object) {
     current_node->yes = create_node(new_object);
     log_message("Added new question and object to tree");
 }
-// Эта функция рекурсивно задает вопросы до тех пор, пока не достигнет листового узла,
-// после чего делает предположение и спрашивает пользователя, правильно ли оно.
-// Если предположение неверно, пользователь может добавить новый объект и вопрос в дерево.
-// Функция принимает в качестве аргумента указатель на текущий узел.
+
 void ask_question(node *current_node) {
     if (current_node->yes == NULL && current_node->no == NULL) {
         printf("I think you are thinking of: %s\n", current_node->question);
