@@ -94,13 +94,15 @@ void ask_question(node *current_node) {
                 printf("You must enter name of the object!\n");
                 return;
             }
-            if(strlen(object) > 0){
-                object[strlen(object)-1] = '\0';
+            if(strlen(object) == 255 && object[254] != '\n'){
+                int c;
+                while ((c = getchar()) != '\n' && c != EOF) { }
             }
+            object[strcspn(object, "\n")] = 0;
             printf("What is a question that distinguishes %s from %s?\n", object, current_node->question);
             char question[256];
             fgets(question, 256, stdin);
-            question[strlen(question)-1] = '\0';
+            question[strcspn(question, "\n")] = 0;
             add_question(current_node, strdup(question), strdup(object));
             printf("Thank you! I'll remember that for next time.\n");
             return;
