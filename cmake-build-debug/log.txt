@@ -430,3 +430,9 @@
 [2023-04-25 16:17:36] Saving tree to file
 [2023-04-25 16:17:36] Finished saving tree to file
 [2023-04-25 16:17:36] Program finished
+[2023-04-25 17:30:38] Program started
+[2023-04-25 17:30:38] Loading tree from file
+[2023-04-25 17:30:38] Finished loading tree from file
+[2023-04-25 17:30:53] Saving tree to file
+[2023-04-25 17:30:53] Finished saving tree to file
+[2023-04-25 17:30:53] Program finished
