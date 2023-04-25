@@ -45,9 +45,14 @@ void printTree(node *currentNode) {
 
 void log_message(char *message) {
     time_t current_time = time(NULL);
-    char *timestamp = ctime(&current_time);
-    timestamp[strlen(timestamp)-1] = '\0';
+    struct tm *local_time = localtime(&current_time);
+    char timestamp[20];
+    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", local_time);
     FILE *log_file = fopen("log.txt", "a");
+    if(log_file == NULL){
+        printf("Cant open file!");
+        return;
+    }
     fprintf(log_file, "[%s] %s\n", timestamp, message);
     fclose(log_file);
 }
@@ -69,6 +74,10 @@ void add_question(node *current_node, char *new_question, char *new_object) {
 }
 
 void ask_question(node *current_node) {
+    if(current_node == NULL){
+        printf("Current node is NULL. Adios!\n");
+        return;
+    }
     if (current_node->yes == NULL && current_node->no == NULL) {
         printf("I think you are thinking of: %s\n", current_node->question);
         printf("Is that correct?\n");
@@ -81,6 +90,10 @@ void ask_question(node *current_node) {
             printf("I didn't guess which object you made up?\n");
             char object[256];
             fgets(object, 256, stdin);
+            if(strlen(object) == 0){
+                printf("You must enter name of the object!\n");
+                return;
+            }
             object[strlen(object)-1] = '\0';
             printf("What is a question that distinguishes %s from %s?\n", object, current_node->question);
             char question[256];

@@ -25,6 +25,10 @@ int main() {
     ask_question(root);
 
     file = fopen("database.txt", "w");
+    if(file == NULL){
+        printf("Cant open file!");
+        return 0;
+    }
 
     log_message("Saving tree to file");
     save_tree(file, root);
