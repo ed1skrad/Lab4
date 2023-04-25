@@ -45,9 +45,10 @@ void printTree(node *currentNode) {
 
 void log_message(char *message) {
     time_t current_time = time(NULL);
-    struct tm *local_time = localtime(&current_time);
+    struct tm local_time;
+    localtime_s(&local_time, &current_time);
     char timestamp[20];
-    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", local_time);
+    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", &local_time);
     FILE *log_file = fopen("log.txt", "a");
     if(log_file == NULL){
         printf("Cant open file!");
@@ -95,7 +96,7 @@ void ask_question(node *current_node) {
                 return;
             }
             if(strlen(object) > 0){
-                object[strlen(object)-1] = '\0';
+                object[strlen(object)] = '\0';
             }
             printf("What is a question that distinguishes %s from %s?\n", object, current_node->question);
             char question[256];
