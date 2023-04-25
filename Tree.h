@@ -4,8 +4,6 @@
 
 #ifndef LAB4READY_TREE_H
 #define LAB4READY_TREE_H
-// Эта структура определяет узел в дереве принятия решений. Каждый узел имеет вопрос,
-// указатель на дочерний узел "да" и указатель на дочерний узел "нет".
 typedef struct node {
     char *question;
     struct node *yes;
