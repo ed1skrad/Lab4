@@ -36,3 +36,321 @@
 [Wed Apr 12 11:29:13 2023] Saving tree to file
 [Wed Apr 12 11:29:13 2023] Finished saving tree to file
 [Wed Apr 12 11:29:13 2023] Program finished
+[Wed Apr 12 12:26:14 2023] Program started
+[Wed Apr 12 12:26:14 2023] Loading tree from file
+[Wed Apr 12 12:26:14 2023] Finished loading tree from file
+[Wed Apr 12 12:27:21 2023] Saving tree to file
+[Wed Apr 12 12:27:21 2023] Finished saving tree to file
+[Wed Apr 12 12:27:21 2023] Program finished
+[Wed Apr 12 12:37:04 2023] Program started
+[Wed Apr 12 12:37:04 2023] Loading tree from file
+[Wed Apr 12 12:37:04 2023] Finished loading tree from file
+[Wed Apr 12 12:42:12 2023] Program started
+[Wed Apr 12 12:42:12 2023] Loading tree from file
+[Wed Apr 12 12:42:12 2023] Finished loading tree from file
+[Wed Apr 12 12:42:45 2023] Added new question and object to tree
+[Wed Apr 12 12:42:45 2023] Saving tree to file
+[Wed Apr 12 12:42:45 2023] Finished saving tree to file
+[Wed Apr 12 12:42:45 2023] Program finished
+[Wed Apr 12 12:42:48 2023] Program started
+[Wed Apr 12 12:42:48 2023] Loading tree from file
+[Wed Apr 12 12:42:48 2023] Finished loading tree from file
+[Wed Apr 12 12:43:31 2023] Program started
+[Wed Apr 12 12:43:31 2023] Loading tree from file
+[Wed Apr 12 12:43:31 2023] Finished loading tree from file
+[Wed Apr 12 12:44:24 2023] Program started
+[Wed Apr 12 12:44:24 2023] Loading tree from file
+[Wed Apr 12 12:44:24 2023] Finished loading tree from file
+[Wed Apr 12 12:44:29 2023] Saving tree to file
+[Wed Apr 12 12:44:29 2023] Finished saving tree to file
+[Wed Apr 12 12:44:29 2023] Program finished
+[Wed Apr 12 12:44:53 2023] Program started
+[Wed Apr 12 12:44:53 2023] Loading tree from file
+[Wed Apr 12 12:44:53 2023] Finished loading tree from file
+[Wed Apr 12 12:47:20 2023] Program started
+[Wed Apr 12 12:47:20 2023] Creating new tree
+[Wed Apr 12 12:47:20 2023] Added new question and object to tree
+[Wed Apr 12 12:47:20 2023] Finished creating new tree
+[Wed Apr 12 12:47:31 2023] Added new question and object to tree
+[Wed Apr 12 12:47:31 2023] Saving tree to file
+[Wed Apr 12 12:47:31 2023] Finished saving tree to file
+[Wed Apr 12 12:47:31 2023] Program finished
+[Wed Apr 12 12:56:18 2023] Program started
+[Wed Apr 12 12:56:18 2023] Loading tree from file
+[Wed Apr 12 12:56:18 2023] Finished loading tree from file
+[Wed Apr 12 12:56:44 2023] Program started
+[Wed Apr 12 12:56:44 2023] Loading tree from file
+[Wed Apr 12 12:56:44 2023] Finished loading tree from file
+[Wed Apr 12 12:57:17 2023] Program started
+[Wed Apr 12 12:57:17 2023] Loading tree from file
+[Wed Apr 12 12:57:17 2023] Finished loading tree from file
+[Wed Apr 12 12:58:04 2023] Added new question and object to tree
+[Wed Apr 12 12:58:04 2023] Saving tree to file
+[Wed Apr 12 12:58:04 2023] Finished saving tree to file
+[Wed Apr 12 12:58:04 2023] Program finished
+[Wed Apr 12 12:58:15 2023] Program started
+[Wed Apr 12 12:58:15 2023] Loading tree from file
+[Wed Apr 12 12:58:15 2023] Finished loading tree from file
+[Wed Apr 12 12:58:26 2023] Program started
+[Wed Apr 12 12:58:26 2023] Loading tree from file
+[Wed Apr 12 12:58:26 2023] Finished loading tree from file
+[Wed Apr 12 12:58:51 2023] Program started
+[Wed Apr 12 12:58:51 2023] Loading tree from file
+[Wed Apr 12 12:58:51 2023] Finished loading tree from file
+[Wed Apr 12 12:59:44 2023] Program started
+[Wed Apr 12 12:59:44 2023] Loading tree from file
+[Wed Apr 12 12:59:44 2023] Finished loading tree from file
+[Wed Apr 12 12:59:50 2023] Saving tree to file
+[Wed Apr 12 12:59:50 2023] Finished saving tree to file
+[Wed Apr 12 12:59:50 2023] Program finished
+[Wed Apr 12 12:59:52 2023] Program started
+[Wed Apr 12 12:59:52 2023] Loading tree from file
+[Wed Apr 12 12:59:52 2023] Finished loading tree from file
+[Wed Apr 12 13:00:23 2023] Program started
+[Wed Apr 12 13:00:23 2023] Creating new tree
+[Wed Apr 12 13:00:23 2023] Added new question and object to tree
+[Wed Apr 12 13:00:23 2023] Finished creating new tree
+[Wed Apr 12 13:00:48 2023] Added new question and object to tree
+[Wed Apr 12 13:00:48 2023] Saving tree to file
+[Wed Apr 12 13:00:48 2023] Finished saving tree to file
+[Wed Apr 12 13:00:48 2023] Program finished
+[Wed Apr 12 13:00:56 2023] Program started
+[Wed Apr 12 13:00:56 2023] Loading tree from file
+[Wed Apr 12 13:00:56 2023] Finished loading tree from file
+[Wed Apr 12 13:01:26 2023] Added new question and object to tree
+[Wed Apr 12 13:01:26 2023] Saving tree to file
+[Wed Apr 12 13:01:26 2023] Finished saving tree to file
+[Wed Apr 12 13:01:26 2023] Program finished
+[Wed Apr 12 13:01:29 2023] Program started
+[Wed Apr 12 13:01:29 2023] Loading tree from file
+[Wed Apr 12 13:01:29 2023] Finished loading tree from file
+[Wed Apr 12 13:02:11 2023] Program started
+[Wed Apr 12 13:02:11 2023] Loading tree from file
+[Wed Apr 12 13:02:11 2023] Finished loading tree from file
+[Wed Apr 12 13:02:59 2023] Program started
+[Wed Apr 12 13:02:59 2023] Loading tree from file
+[Wed Apr 12 13:02:59 2023] Finished loading tree from file
+[Wed Apr 12 13:03:29 2023] Added new question and object to tree
+[Wed Apr 12 13:03:29 2023] Saving tree to file
+[Wed Apr 12 13:03:29 2023] Finished saving tree to file
+[Wed Apr 12 13:03:29 2023] Program finished
+[Wed Apr 12 13:10:26 2023] Program started
+[Wed Apr 12 13:10:26 2023] Loading tree from file
+[Wed Apr 12 13:10:26 2023] Finished loading tree from file
+[Wed Apr 12 13:10:38 2023] Program started
+[Wed Apr 12 13:10:38 2023] Loading tree from file
+[Wed Apr 12 13:10:38 2023] Finished loading tree from file
+[Wed Apr 12 13:11:02 2023] Program started
+[Wed Apr 12 13:11:02 2023] Loading tree from file
+[Wed Apr 12 13:11:02 2023] Finished loading tree from file
+[Wed Apr 12 13:13:54 2023] Program started
+[Wed Apr 12 13:13:54 2023] Loading tree from file
+[Wed Apr 12 13:13:54 2023] Finished loading tree from file
+[Wed Apr 12 13:14:19 2023] Added new question and object to tree
+[Wed Apr 12 13:14:19 2023] Saving tree to file
+[Wed Apr 12 13:14:19 2023] Finished saving tree to file
+[Wed Apr 12 13:14:19 2023] Program finished
+[Wed Apr 12 13:14:22 2023] Program started
+[Wed Apr 12 13:14:22 2023] Loading tree from file
+[Wed Apr 12 13:14:22 2023] Finished loading tree from file
+[Wed Apr 12 13:14:26 2023] Program started
+[Wed Apr 12 13:14:26 2023] Loading tree from file
+[Wed Apr 12 13:14:26 2023] Finished loading tree from file
+[Wed Apr 12 13:15:02 2023] Added new question and object to tree
+[Wed Apr 12 13:15:02 2023] Saving tree to file
+[Wed Apr 12 13:15:02 2023] Finished saving tree to file
+[Wed Apr 12 13:15:02 2023] Program finished
+[Wed Apr 12 13:16:45 2023] Program started
+[Wed Apr 12 13:16:45 2023] Loading tree from file
+[Wed Apr 12 13:16:45 2023] Finished loading tree from file
+[Wed Apr 12 13:17:36 2023] Program started
+[Wed Apr 12 13:17:36 2023] Loading tree from file
+[Wed Apr 12 13:17:36 2023] Finished loading tree from file
+[Wed Apr 12 13:17:45 2023] Program started
+[Wed Apr 12 13:17:45 2023] Creating new tree
+[Wed Apr 12 13:17:45 2023] Added new question and object to tree
+[Wed Apr 12 13:17:45 2023] Finished creating new tree
+[Wed Apr 12 13:20:20 2023] Added new question and object to tree
+[Wed Apr 12 13:20:20 2023] Saving tree to file
+[Wed Apr 12 13:20:20 2023] Finished saving tree to file
+[Wed Apr 12 13:20:20 2023] Program finished
+[Wed Apr 12 13:20:23 2023] Program started
+[Wed Apr 12 13:20:23 2023] Loading tree from file
+[Wed Apr 12 13:20:23 2023] Finished loading tree from file
+[Wed Apr 12 13:20:56 2023] Added new question and object to tree
+[Wed Apr 12 13:20:56 2023] Saving tree to file
+[Wed Apr 12 13:20:56 2023] Finished saving tree to file
+[Wed Apr 12 13:20:56 2023] Program finished
+[Wed Apr 12 13:22:33 2023] Program started
+[Wed Apr 12 13:22:33 2023] Loading tree from file
+[Wed Apr 12 13:22:33 2023] Finished loading tree from file
+[Wed Apr 12 13:22:55 2023] Program started
+[Wed Apr 12 13:22:55 2023] Loading tree from file
+[Wed Apr 12 13:22:55 2023] Finished loading tree from file
+[Wed Apr 12 13:23:10 2023] Added new question and object to tree
+[Wed Apr 12 13:23:10 2023] Saving tree to file
+[Wed Apr 12 13:23:10 2023] Finished saving tree to file
+[Wed Apr 12 13:23:10 2023] Program finished
+[Wed Apr 12 13:23:13 2023] Program started
+[Wed Apr 12 13:23:13 2023] Loading tree from file
+[Wed Apr 12 13:23:13 2023] Finished loading tree from file
+[Wed Apr 12 13:23:26 2023] Saving tree to file
+[Wed Apr 12 13:23:26 2023] Finished saving tree to file
+[Wed Apr 12 13:23:26 2023] Program finished
+[Wed Apr 12 13:23:30 2023] Program started
+[Wed Apr 12 13:23:30 2023] Loading tree from file
+[Wed Apr 12 13:23:30 2023] Finished loading tree from file
+[Wed Apr 12 13:24:23 2023] Added new question and object to tree
+[Wed Apr 12 13:24:23 2023] Saving tree to file
+[Wed Apr 12 13:24:23 2023] Finished saving tree to file
+[Wed Apr 12 13:24:23 2023] Program finished
+[Wed Apr 12 13:24:25 2023] Program started
+[Wed Apr 12 13:24:25 2023] Loading tree from file
+[Wed Apr 12 13:24:25 2023] Finished loading tree from file
+[Wed Apr 12 13:24:41 2023] Saving tree to file
+[Wed Apr 12 13:24:41 2023] Finished saving tree to file
+[Wed Apr 12 13:24:41 2023] Program finished
+[Wed Apr 12 13:24:43 2023] Program started
+[Wed Apr 12 13:24:43 2023] Loading tree from file
+[Wed Apr 12 13:24:43 2023] Finished loading tree from file
+[Wed Apr 12 13:25:36 2023] Added new question and object to tree
+[Wed Apr 12 13:25:36 2023] Saving tree to file
+[Wed Apr 12 13:25:36 2023] Finished saving tree to file
+[Wed Apr 12 13:25:36 2023] Program finished
+[Wed Apr 12 13:25:38 2023] Program started
+[Wed Apr 12 13:25:38 2023] Loading tree from file
+[Wed Apr 12 13:25:38 2023] Finished loading tree from file
+[Wed Apr 12 13:26:06 2023] Added new question and object to tree
+[Wed Apr 12 13:26:06 2023] Saving tree to file
+[Wed Apr 12 13:26:06 2023] Finished saving tree to file
+[Wed Apr 12 13:26:06 2023] Program finished
+[Wed Apr 12 13:26:32 2023] Program started
+[Wed Apr 12 13:26:32 2023] Loading tree from file
+[Wed Apr 12 13:26:32 2023] Finished loading tree from file
+[Wed Apr 12 13:27:02 2023] Added new question and object to tree
+[Wed Apr 12 13:27:02 2023] Saving tree to file
+[Wed Apr 12 13:27:02 2023] Finished saving tree to file
+[Wed Apr 12 13:27:02 2023] Program finished
+[Wed Apr 12 13:27:04 2023] Program started
+[Wed Apr 12 13:27:04 2023] Loading tree from file
+[Wed Apr 12 13:27:04 2023] Finished loading tree from file
+[Wed Apr 12 13:27:17 2023] Saving tree to file
+[Wed Apr 12 13:27:17 2023] Finished saving tree to file
+[Wed Apr 12 13:27:17 2023] Program finished
+[Wed Apr 12 13:27:19 2023] Program started
+[Wed Apr 12 13:27:19 2023] Loading tree from file
+[Wed Apr 12 13:27:19 2023] Finished loading tree from file
+[Wed Apr 12 13:29:52 2023] Program started
+[Wed Apr 12 13:29:52 2023] Loading tree from file
+[Wed Apr 12 13:29:52 2023] Finished loading tree from file
+[Wed Apr 12 13:30:45 2023] Program started
+[Wed Apr 12 13:30:45 2023] Loading tree from file
+[Wed Apr 12 13:30:45 2023] Finished loading tree from file
+[Wed Apr 12 13:31:10 2023] Program started
+[Wed Apr 12 13:31:10 2023] Creating new tree
+[Wed Apr 12 13:31:10 2023] Added new question and object to tree
+[Wed Apr 12 13:31:10 2023] Finished creating new tree
+[Wed Apr 12 13:31:27 2023] Added new question and object to tree
+[Wed Apr 12 13:31:27 2023] Saving tree to file
+[Wed Apr 12 13:31:27 2023] Finished saving tree to file
+[Wed Apr 12 13:31:27 2023] Program finished
+[Wed Apr 12 13:31:29 2023] Program started
+[Wed Apr 12 13:31:29 2023] Loading tree from file
+[Wed Apr 12 13:31:29 2023] Finished loading tree from file
+[Wed Apr 12 13:34:45 2023] Added new question and object to tree
+[Wed Apr 12 13:34:45 2023] Saving tree to file
+[Wed Apr 12 13:34:45 2023] Finished saving tree to file
+[Wed Apr 12 13:34:45 2023] Program finished
+[Wed Apr 12 13:34:48 2023] Program started
+[Wed Apr 12 13:34:48 2023] Loading tree from file
+[Wed Apr 12 13:34:48 2023] Finished loading tree from file
+[Wed Apr 12 13:35:13 2023] Added new question and object to tree
+[Wed Apr 12 13:35:13 2023] Saving tree to file
+[Wed Apr 12 13:35:13 2023] Finished saving tree to file
+[Wed Apr 12 13:35:13 2023] Program finished
+[Wed Apr 12 13:35:16 2023] Program started
+[Wed Apr 12 13:35:16 2023] Loading tree from file
+[Wed Apr 12 13:35:16 2023] Finished loading tree from file
+[Wed Apr 12 13:35:23 2023] Saving tree to file
+[Wed Apr 12 13:35:23 2023] Finished saving tree to file
+[Wed Apr 12 13:35:23 2023] Program finished
+[Wed Apr 12 13:35:25 2023] Program started
+[Wed Apr 12 13:35:25 2023] Loading tree from file
+[Wed Apr 12 13:35:25 2023] Finished loading tree from file
+[Wed Apr 12 13:35:35 2023] Saving tree to file
+[Wed Apr 12 13:35:35 2023] Finished saving tree to file
+[Wed Apr 12 13:35:35 2023] Program finished
+[Wed Apr 12 13:35:37 2023] Program started
+[Wed Apr 12 13:35:37 2023] Loading tree from file
+[Wed Apr 12 13:35:37 2023] Finished loading tree from file
+[Wed Apr 12 13:38:33 2023] Added new question and object to tree
+[Wed Apr 12 13:38:33 2023] Saving tree to file
+[Wed Apr 12 13:38:33 2023] Finished saving tree to file
+[Wed Apr 12 13:38:33 2023] Program finished
+[Wed Apr 12 13:39:28 2023] Program started
+[Wed Apr 12 13:39:28 2023] Loading tree from file
+[Wed Apr 12 13:39:28 2023] Finished loading tree from file
+[Wed Apr 12 14:27:53 2023] Program started
+[Wed Apr 12 14:27:53 2023] Loading tree from file
+[Wed Apr 12 14:27:53 2023] Finished loading tree from file
+[Wed Apr 12 14:29:08 2023] Added new question and object to tree
+[Wed Apr 12 14:29:08 2023] Saving tree to file
+[Wed Apr 12 14:29:08 2023] Finished saving tree to file
+[Wed Apr 12 14:29:08 2023] Program finished
+[Wed Apr 12 14:29:10 2023] Program started
+[Wed Apr 12 14:29:10 2023] Loading tree from file
+[Wed Apr 12 14:29:10 2023] Finished loading tree from file
+[Wed Apr 12 14:29:26 2023] Saving tree to file
+[Wed Apr 12 14:29:26 2023] Finished saving tree to file
+[Wed Apr 12 14:29:26 2023] Program finished
+[Tue Apr 25 10:56:28 2023] Program started
+[Tue Apr 25 10:56:28 2023] Loading tree from file
+[Tue Apr 25 10:56:28 2023] Finished loading tree from file
+[Tue Apr 25 10:57:50 2023] Added new question and object to tree
+[Tue Apr 25 10:57:50 2023] Saving tree to file
+[Tue Apr 25 10:57:50 2023] Finished saving tree to file
+[Tue Apr 25 10:57:50 2023] Program finished
+[Tue Apr 25 10:57:54 2023] Program started
+[Tue Apr 25 10:57:54 2023] Loading tree from file
+[Tue Apr 25 10:57:54 2023] Finished loading tree from file
+[Tue Apr 25 10:58:07 2023] Saving tree to file
+[Tue Apr 25 10:58:07 2023] Finished saving tree to file
+[Tue Apr 25 10:58:07 2023] Program finished
+[Tue Apr 25 11:05:15 2023] Program started
+[Tue Apr 25 11:05:15 2023] Loading tree from file
+[Tue Apr 25 11:05:15 2023] Finished loading tree from file
+[Tue Apr 25 11:05:34 2023] Saving tree to file
+[Tue Apr 25 11:05:34 2023] Finished saving tree to file
+[Tue Apr 25 11:05:34 2023] Program finished
+[Tue Apr 25 11:05:36 2023] Program started
+[Tue Apr 25 11:05:36 2023] Loading tree from file
+[Tue Apr 25 11:05:36 2023] Finished loading tree from file
+[Tue Apr 25 11:05:53 2023] Saving tree to file
+[Tue Apr 25 11:05:53 2023] Finished saving tree to file
+[Tue Apr 25 11:05:53 2023] Program finished
+[Tue Apr 25 11:06:04 2023] Program started
+[Tue Apr 25 11:06:04 2023] Loading tree from file
+[Tue Apr 25 11:06:04 2023] Finished loading tree from file
+[Tue Apr 25 11:06:19 2023] Saving tree to file
+[Tue Apr 25 11:06:19 2023] Finished saving tree to file
+[Tue Apr 25 11:06:19 2023] Program finished
+[Tue Apr 25 13:09:11 2023] Program started
+[Tue Apr 25 13:09:11 2023] Creating new tree
+[Tue Apr 25 13:09:11 2023] Added new question and object to tree
+[Tue Apr 25 13:09:11 2023] Finished creating new tree
+[Tue Apr 25 13:09:24 2023] Added new question and object to tree
+[Tue Apr 25 13:09:24 2023] Saving tree to file
+[Tue Apr 25 13:09:24 2023] Finished saving tree to file
+[Tue Apr 25 13:09:24 2023] Program finished
+[Tue Apr 25 13:09:26 2023] Program started
+[Tue Apr 25 13:09:26 2023] Loading tree from file
+[Tue Apr 25 13:09:26 2023] Finished loading tree from file
+[Tue Apr 25 13:09:32 2023] Saving tree to file
+[Tue Apr 25 13:09:32 2023] Finished saving tree to file
+[Tue Apr 25 13:09:32 2023] Program finished
+[Tue Apr 25 13:09:57 2023] Program started
+[Tue Apr 25 13:09:57 2023] Loading tree from file
+[Tue Apr 25 13:09:57 2023] Finished loading tree from file
+[Tue Apr 25 13:10:03 2023] Saving tree to file
+[Tue Apr 25 13:10:03 2023] Finished saving tree to file
+[Tue Apr 25 13:10:03 2023] Program finished

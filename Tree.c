@@ -94,7 +94,7 @@ void ask_question(node *current_node) {
         printf("I think you are thinking of: %s\n", current_node->question);
         printf("Is that correct?\n");
         char answer[4];
-        scanf("%s", answer);
+        scanf("%3s%*c", answer);
         if (strcmp(answer, "yes") == 0) {
             printf("I guess!\n");
             return;
@@ -114,7 +114,7 @@ void ask_question(node *current_node) {
     }
     printf("%s\n", current_node->question);
     char answer[4];
-    scanf("%s", answer);
+    scanf("%3s%*c", answer);
     if (strcmp(answer, "yes") == 0) {
         ask_question(current_node->yes);
     } else if (strcmp(answer, "no") == 0) {

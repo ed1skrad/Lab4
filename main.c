@@ -28,7 +28,6 @@ int main() {
 
     log_message("Saving tree to file");
     save_tree(file, root);
-    //printTree(root);
     fclose(file);
     log_message("Finished saving tree to file");
 
