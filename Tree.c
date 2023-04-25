@@ -75,7 +75,7 @@ void add_question(node *current_node, char *new_question, char *new_object) {
 
 void ask_question(node *current_node) {
     if(current_node == NULL){
-        printf("Current node is NULL. Adios!\n");
+        printf("Current node is NULL.\n");
         return;
     }
     if (current_node->yes == NULL && current_node->no == NULL) {
@@ -94,7 +94,9 @@ void ask_question(node *current_node) {
                 printf("You must enter name of the object!\n");
                 return;
             }
-            object[strlen(object)-1] = '\0';
+            if(strlen(object) > 0){
+                object[strlen(object)-1] = '\0';
+            }
             printf("What is a question that distinguishes %s from %s?\n", object, current_node->question);
             char question[256];
             fgets(question, 256, stdin);
