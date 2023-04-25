@@ -45,15 +45,10 @@ void printTree(node *currentNode) {
 
 void log_message(char *message) {
     time_t current_time = time(NULL);
-    struct tm local_time;
-    localtime_s(&local_time, &current_time);
+    const struct tm *local_time = localtime(&current_time);
     char timestamp[20];
-    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", &local_time);
+    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", local_time);
     FILE *log_file = fopen("log.txt", "a");
-    if(log_file == NULL){
-        printf("Cant open file!");
-        return;
-    }
     fprintf(log_file, "[%s] %s\n", timestamp, message);
     fclose(log_file);
 }
